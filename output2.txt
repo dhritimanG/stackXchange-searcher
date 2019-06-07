@@ -1,0 +1,531 @@
+Questions for user with id 24545 and weightage 3396 
+
+		 1. Recursive list comprehension in Python?
+
+
+
+Questions for user with id 2106753 and weightage 1128 
+
+		 1. Element-wise addition of 2 lists?
+
+
+
+Questions for user with id 259576 and weightage 999 
+
+		 1. How can I call a method on each element of a List?
+
+
+
+Questions for user with id 88054 and weightage 819 
+
+		 1. break list comprehension
+
+
+
+Questions for user with id 877942 and weightage 792 
+
+		 1. Python AttributeError: Object has no attribute
+
+
+
+Questions for user with id 898042 and weightage 531 
+
+		 1. How do I filter strings that start with any vowel? [python]
+
+
+
+Questions for user with id 1850358 and weightage 471 
+
+		 1. Add SUM of values of two LISTS into new LIST
+
+
+
+Questions for user with id 9634 and weightage 438 
+
+		 1. How to use re match objects in a list comprehension
+
+
+
+Questions for user with id 1530318 and weightage 381 
+
+		 1. How to avoid &quot;RuntimeError: dictionary changed size during iteration&quot; error?
+
+
+
+Questions for user with id 3767239 and weightage 249 
+
+		 1. Why is updating a list faster when using a list comprehension as opposed to a generator expression?
+
+
+
+Questions for user with id 160225 and weightage 246 
+
+		 1. Is it possible to use &#39;else&#39; in a list comprehension?
+
+
+
+Questions for user with id 918489 and weightage 165 
+
+		 1. What is the proper method for declaring and referencing a 2D List of Points?
+
+
+
+Questions for user with id 1610719 and weightage 135 
+
+		 1. Pandas groupby get row with max in multiple columns
+
+
+
+Questions for user with id 2117603 and weightage 126 
+
+		 1. Can every list comprehension be duplicated in a normal if statement
+
+
+
+Questions for user with id 3374402 and weightage 99 
+
+		 1. How to set local variable in list comprehension?
+
+
+
+Questions for user with id 3536292 and weightage 93 
+
+		 1. Why is this List sometimes null and sometimes not?
+
+
+
+Questions for user with id 7415247 and weightage 87 
+
+		 1. Quick way of getting the keys in a list of dictionaries
+
+
+
+Questions for user with id 5613485 and weightage 75 
+
+		 1. Can Python list comprehension be used in this use-case?
+
+
+
+Questions for user with id 4230964 and weightage 75 
+
+		 1. Numpy array limiting operation X[X &lt; {value}] = {value}
+
+
+
+Questions for user with id 1815486 and weightage 75 
+
+		 1. Different :maxdepth: for specific entries in toctree (Sphinx)
+
+
+
+Questions for user with id 2956272 and weightage 72 
+
+		 1. Python - take each n-th element (in place)
+
+
+
+Questions for user with id 1278896 and weightage 72 
+
+		 1. Python/SQLite3: cannot commit - no transaction is active
+
+
+
+Questions for user with id 2479613 and weightage 66 
+
+		 1. How to recursively query in django efficiently?
+
+
+
+Questions for user with id 1105289 and weightage 66 
+
+		 1. Segmentation Fault - Linked List
+
+
+
+Questions for user with id 6408180 and weightage 66 
+
+		 1. how to convert following code snippet in list comprehension
+
+
+
+Questions for user with id 8474432 and weightage 60 
+
+		 1. List comprehension to combine elements of sublists by column
+
+
+		 2. List comprehension to combine elements of sublists by column
+
+
+
+Questions for user with id 4490045 and weightage 57 
+
+		 1. Prolog - split_string on every element in list
+
+
+		 2. Prolog - Keep track of multiple sum counters
+
+
+
+Questions for user with id 4625713 and weightage 51 
+
+		 1. Error using &#39;exp&#39; in sympy -TypeError and Attribute Error is displayed
+
+
+
+Questions for user with id 4384723 and weightage 48 
+
+		 1. Python csv.writerows() writes to many columns on one row and not to many rows as desired/expected
+
+
+
+Questions for user with id 10045255 and weightage 42 
+
+		 1. Why bitwise operation is faster than the regular method?
+
+
+
+Questions for user with id 8257494 and weightage 39 
+
+		 1. Using list comprehension to remove undesired rows and columns and convert all string items into integer type
+
+
+
+Questions for user with id 3552698 and weightage 36 
+
+		 1. List comprehension syntax - how to use ... if... else?
+
+
+
+Questions for user with id 1838003 and weightage 33 
+
+		 1. Pandas: Faster way to return column value if matching with contents of list?
+
+
+
+Questions for user with id 6688750 and weightage 33 
+
+		 1. Curve fitting with gradient descent
+
+
+
+Questions for user with id 5909920 and weightage 30 
+
+		 1. SQLAlchemy Spatical functions to lookup by longitude/latitude
+
+
+
+Questions for user with id 6322082 and weightage 27 
+
+		 1. When cleanig tokenized data, how to use .isalpha() in a list of lists to return values, not Booleans?
+
+
+
+Questions for user with id 7960504 and weightage 27 
+
+		 1. How to calculate the list of list and return list of floats
+
+
+
+Questions for user with id 11188487 and weightage 27 
+
+		 1. Calculate per trade Profit and Loss (PnL) using Pandas Dataframe
+
+
+
+Questions for user with id 3921344 and weightage 24 
+
+		 1. Python: first element in a nested list
+
+
+
+Questions for user with id 6938000 and weightage 24 
+
+		 1. Convert CSV into JSON. How do I keep values with the same Index?
+
+
+
+Questions for user with id 7129473 and weightage 24 
+
+		 1. How to display data from a Google Cloud SQL database by making GET requests using Python?
+
+
+
+Questions for user with id 4537260 and weightage 24 
+
+		 1. Convert Python list to JSON
+
+
+
+Questions for user with id 7278472 and weightage 24 
+
+		 1. Return a list item from a null value using list comprehension
+
+
+
+Questions for user with id 8111055 and weightage 24 
+
+		 1. AttributeError: &#39;str&#39; object has no attribute &#39;execute&#39;
+
+
+
+Questions for user with id 6271986 and weightage 21 
+
+		 1. How to use numpy functions to make this list
+
+
+
+Questions for user with id 11356960 and weightage 21 
+
+		 1. Python: Interrupting the execution of a function
+
+
+
+Questions for user with id 2351966 and weightage 18 
+
+		 1. wxPython: Drag&amp;Drop a wx.Button over a panel crashes the application
+
+
+
+Questions for user with id 8185618 and weightage 18 
+
+		 1. Image Grab Failed by Minimizing(or Closing) Remote Connection or Running too Many Times
+
+
+
+Questions for user with id 3292638 and weightage 18 
+
+		 1. How to take extra space and newline separated number input in python 2.7.7?
+
+
+
+Questions for user with id 9470741 and weightage 18 
+
+		 1. How a list can be added to another list in c#?
+
+
+
+Questions for user with id 5818146 and weightage 15 
+
+		 1. Python 3 OOP - How to get names by first letter from an attribute list (Object Instance)
+
+
+
+Questions for user with id 10603470 and weightage 15 
+
+		 1. How to insert excel Cell Values to a list?
+
+
+
+Questions for user with id 8576796 and weightage 15 
+
+		 1. How to create a tuple of certain values in a dictionary comprehension?
+
+
+
+Questions for user with id 11224886 and weightage 15 
+
+		 1. I want to append in l1 to l2 when the index is 1
+
+
+
+Questions for user with id 10940380 and weightage 12 
+
+		 1. Why is the order of output as is - I would think it has to be otherwise?
+
+
+		 2. I am not able to figure out the error i am doing continuously.?
+
+
+
+Questions for user with id 4569000 and weightage 12 
+
+		 1. Interning and memory address for str and Py_UNICODE in cython
+
+
+
+Questions for user with id 5334013 and weightage 12 
+
+		 1. How to virtualize only the bottom of list items?
+
+
+
+Questions for user with id 11405576 and weightage 12 
+
+		 1. Variable p referenced before assignment in enclosing scope
+
+
+
+Questions for user with id 10494725 and weightage 12 
+
+		 1. How to categorize values from one list based on threshold values in other one?
+
+
+
+Questions for user with id 10698499 and weightage 12 
+
+		 1. Python list comprehension with lambda function transformation
+
+
+
+Questions for user with id 6211023 and weightage 12 
+
+		 1. Java How to Filter List of JPA Objects That Contain Several Nested Levels of Lists
+
+
+
+Questions for user with id 11078438 and weightage 12 
+
+		 1. How to filter and combine objects if they has same fields
+
+
+
+Questions for user with id 7346564 and weightage 9 
+
+		 1. How to convert lists of years, months, days into list of datetimes?
+
+
+
+Questions for user with id 1998790 and weightage 9 
+
+		 1. generator expression with value check
+
+
+
+Questions for user with id 8553795 and weightage 9 
+
+		 1. List Comprehension Python Prime numbers
+
+
+
+Questions for user with id 6727643 and weightage 9 
+
+		 1. PermissionError: [Errno 13] Permission denied: when trying to write workbook to desktop
+
+
+
+Questions for user with id 11512634 and weightage 9 
+
+		 1. how can i turn this plot into bar plots using the same data as i am
+
+
+
+Questions for user with id 10117493 and weightage 6 
+
+		 1. get_member_named() missing 1 required positional argument: &#39;name&#39;
+
+
+
+Questions for user with id 9615870 and weightage 6 
+
+		 1. Can a target variable in a supervised machine learning task be an array for a specific object?
+
+
+
+Questions for user with id 11522501 and weightage 6 
+
+		 1. How do you make a Python input loop read and update list item
+
+
+
+Questions for user with id 10358568 and weightage 6 
+
+		 1. Display begining and end of cell
+
+
+
+Questions for user with id 5653479 and weightage 6 
+
+		 1. Adding \n into a string array
+
+
+
+Questions for user with id 4981702 and weightage 6 
+
+		 1. pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [Errno 61] Connection refused
+
+
+
+Questions for user with id 11518276 and weightage 3 
+
+		 1. Solving PDE with Python
+
+
+
+Questions for user with id 9653109 and weightage 3 
+
+		 1. Why I am receiving a .bin extension file via email attachment through python script?
+
+
+
+Questions for user with id 8232352 and weightage 3 
+
+		 1. How to get unique values in Python using list/dict comprehension
+
+
+
+Questions for user with id 11523448 and weightage 3 
+
+		 1. How to control an arduino with a computer?
+
+
+
+Questions for user with id 11523433 and weightage 3 
+
+		 1. Program displays random lists data when reading from file
+
+
+
+Questions for user with id 11375369 and weightage 3 
+
+		 1. Can someone please explain this Python code?
+
+
+
+Questions for user with id 11524437 and weightage 0 
+
+		 1. How to create ratio columns from a dataframe after pivot
+
+
+
+Questions for user with id 9828858 and weightage 0 
+
+		 1. List Comprehension for items in list
+
+
+
+Questions for user with id 11519937 and weightage 0 
+
+		 1. How can I change string into float list and &#39;n&#39; of n dimensional list?
+
+
+
+Questions for user with id 11524378 and weightage 0 
+
+		 1. I have a problem with copyfile () I just want an illustrative example or several similar examples
+
+
+
+Questions for user with id 10894613 and weightage 0 
+
+		 1. Output list with first match among two list
+
+
+
+Questions for user with id 11523845 and weightage 0 
+
+		 1. Custom swap function for lists gives segmentation fault
+
+
+
+Questions for user with id 9984825 and weightage 0 
+
+		 1. I am trying to do a dropdown list for months and increase decrease for years, but till now I haven&#39;t done it. Is it possible to do in angular?
+
+
+
+Questions for user with id 11515699 and weightage 0 
+
+		 1. I am stuck. Can you please help me?
+
+
+

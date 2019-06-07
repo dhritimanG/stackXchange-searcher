@@ -1,0 +1,5 @@
+.idea/
+stack.iml
+target/
+.DS_Store
+src/.DS_Store

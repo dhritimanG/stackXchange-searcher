@@ -1,0 +1,537 @@
+Questions for user with id 468384 and weightage 813 
+
+		 1. Edit Custom Object via REST API in Salesforce
+
+
+
+Questions for user with id 877942 and weightage 792 
+
+		 1. Python AttributeError: Object has no attribute
+
+
+
+Questions for user with id 898042 and weightage 531 
+
+		 1. How do I filter strings that start with any vowel? [python]
+
+
+
+Questions for user with id 1884155 and weightage 336 
+
+		 1. Use ThreadLocal for request scope passing of data
+
+
+
+Questions for user with id 146345 and weightage 309 
+
+		 1. Spring Boot Rest - How to configure 404 - resource not found
+
+
+
+Questions for user with id 840546 and weightage 279 
+
+		 1. Auto generated id not cascading on EmbeddedId in child entity in Hibernate
+
+
+
+Questions for user with id 1045902 and weightage 234 
+
+		 1. when I add library dependencies in pom.xml, jetty servlet container fails to run properly
+
+
+
+Questions for user with id 1081319 and weightage 222 
+
+		 1. Largest number of times square root can be calculated on numbers between 2 intervals
+
+
+
+Questions for user with id 3484667 and weightage 219 
+
+		 1. How to add button on child row in lightning tree grid
+
+
+
+Questions for user with id 1610719 and weightage 135 
+
+		 1. Pandas groupby get row with max in multiple columns
+
+
+
+Questions for user with id 2844485 and weightage 126 
+
+		 1. Specifying multiple one-to-many relationships between tables in Hibernate
+
+
+
+Questions for user with id 1860545 and weightage 81 
+
+		 1. Salesforce - Set flex queue size apex test class
+
+
+
+Questions for user with id 4230964 and weightage 75 
+
+		 1. Numpy value limiting
+
+
+
+Questions for user with id 2956272 and weightage 72 
+
+		 1. Python - take each n-th element (in place)
+
+
+
+Questions for user with id 1815486 and weightage 72 
+
+		 1. Different :maxdepth: for specific entries in toctree (Sphinx)
+
+
+
+Questions for user with id 1278896 and weightage 72 
+
+		 1. Python/SQLite3: cannot commit - no transaction is active
+
+
+
+Questions for user with id 1808799 and weightage 60 
+
+		 1. Is there any REST service available in Salesforce to Convert Leads into Accounts?
+
+
+
+Questions for user with id 387530 and weightage 57 
+
+		 1. Avro schema Java deepcopy issue with field order
+
+
+
+Questions for user with id 4625713 and weightage 51 
+
+		 1. Error using &#39;exp&#39; in sympy -TypeError and Attribute Error is displayed
+
+
+
+Questions for user with id 4384723 and weightage 48 
+
+		 1. Python csv.writerows() writes to many columns on one row and not to many rows as desired/expected
+
+
+
+Questions for user with id 3187094 and weightage 45 
+
+		 1. Does MySQL Connector/J driver implement JdbcRowSet interface?
+
+
+
+Questions for user with id 2928593 and weightage 42 
+
+		 1. How to enable CORS in flask and heroku
+
+
+
+Questions for user with id 10045255 and weightage 42 
+
+		 1. Why bitwise operation is faster than the regular method?
+
+
+
+Questions for user with id 6461204 and weightage 36 
+
+		 1. Google Drive API message &quot;Daily Limit for Unauthenticated Use Exceeded.&quot; while viewing files from Salesforce
+
+
+
+Questions for user with id 657896 and weightage 36 
+
+		 1. How do I update custom fields in Salesforce via Olark API
+
+
+
+Questions for user with id 4961730 and weightage 33 
+
+		 1. Java Spring MVC Several Pages
+
+
+
+Questions for user with id 6688750 and weightage 33 
+
+		 1. Curve fitting with gradient descent
+
+
+
+Questions for user with id 5909920 and weightage 30 
+
+		 1. SQLAlchemy Spatical functions to lookup by longitude/latitude
+
+
+
+Questions for user with id 6783371 and weightage 30 
+
+		 1. @Transactional service methods rollback hibernate changes
+
+
+
+Questions for user with id 2549667 and weightage 30 
+
+		 1. Empty table generated with Handsontable in Salesforce Lightning Web component
+
+
+
+Questions for user with id 7129473 and weightage 24 
+
+		 1. How to display data from a Google Cloud SQL database by making GET requests using Python?
+
+
+
+Questions for user with id 11356960 and weightage 21 
+
+		 1. Python: Interrupting the execution of a function
+
+
+
+Questions for user with id 2351966 and weightage 18 
+
+		 1. wxPython: Drag&amp;Drop a wx.Button over a panel crashes the application
+
+
+
+Questions for user with id 8413550 and weightage 18 
+
+		 1. Salesforce data streaming to google cloud bigQuery tables
+
+
+
+Questions for user with id 8185618 and weightage 18 
+
+		 1. Image Grab Failed by Minimizing(or Closing) Remote Connection or Running too Many Times
+
+
+
+Questions for user with id 8111055 and weightage 18 
+
+		 1. AttributeError: &#39;str&#39; object has no attribute &#39;execute&#39;
+
+
+
+Questions for user with id 4537797 and weightage 18 
+
+		 1. How to identify the trigger is triggered by Database update or by a Salesforce update in Heroku Connect
+
+
+
+Questions for user with id 6809525 and weightage 15 
+
+		 1. How to parse field that may be a string and may be an array with Jackson
+
+
+
+Questions for user with id 8013276 and weightage 15 
+
+		 1. Salesforce lightning Action modal size
+
+
+
+Questions for user with id 10304265 and weightage 15 
+
+		 1. How to fix &#39;SuperNotCalledException&quot; of onDestroy?
+
+
+
+Questions for user with id 11482962 and weightage 12 
+
+		 1. How to make spinner that will shows nothing until user click on it?
+
+
+
+Questions for user with id 10940380 and weightage 12 
+
+		 1. Why is the order of output as is - I would think it has to be otherwise?
+
+
+		 2. I am not able to figure out the error i am doing continuously.?
+
+
+
+Questions for user with id 3873740 and weightage 12 
+
+		 1. Conflict between Org Based (normal) deployment and DX deployment
+
+
+
+Questions for user with id 10040300 and weightage 12 
+
+		 1. Which way shall I use to read a char stream from a file?
+
+
+
+Questions for user with id 4569000 and weightage 12 
+
+		 1. Interning and memory address for str and Py_UNICODE in cython
+
+
+
+Questions for user with id 8895290 and weightage 12 
+
+		 1. Delete on many to one relation is not persisting
+
+
+
+Questions for user with id 11336985 and weightage 12 
+
+		 1. Getting SSL Handshake error handshake Failure
+
+
+
+Questions for user with id 11204918 and weightage 12 
+
+		 1. What is the difference between &#39;SAS&#39; and &#39;Salesforce&#39;
+
+
+
+Questions for user with id 11345721 and weightage 12 
+
+		 1. How to run maven command in AWS Device Farm
+
+
+
+Questions for user with id 9629548 and weightage 9 
+
+		 1. Joined inheritance strategy
+
+
+
+Questions for user with id 1974767 and weightage 9 
+
+		 1. setuptools not including flask templates when creating distribution
+
+
+
+Questions for user with id 10697555 and weightage 9 
+
+		 1. How to convert different measurements?
+
+
+
+Questions for user with id 11507059 and weightage 9 
+
+		 1. Not able to call apex controller from lightning component&#39;s helper class
+
+
+
+Questions for user with id 11524477 and weightage 9 
+
+		 1. how can i increase the space between the circles drawn for creating the snake in the snake game i am creating?
+
+
+
+Questions for user with id 4082674 and weightage 9 
+
+		 1. Force fix gaps in a GridPane?
+
+
+
+Questions for user with id 7722442 and weightage 9 
+
+		 1. What is keeping my email from sending but not causing an error message?
+
+
+
+Questions for user with id 6727643 and weightage 9 
+
+		 1. PermissionError: [Errno 13] Permission denied: when trying to write workbook to desktop
+
+
+
+Questions for user with id 11519755 and weightage 9 
+
+		 1. Is there any way of mentioning two login_redirect_urls in django?
+
+
+
+Questions for user with id 11512634 and weightage 9 
+
+		 1. how can i turn this plot into bar plots using the same data as i am
+
+
+
+Questions for user with id 10616614 and weightage 9 
+
+		 1. Is it probable &quot;print&quot; something dynamic data on webpage
+
+
+
+Questions for user with id 11522513 and weightage 6 
+
+		 1. Android: RecyclerView item&#39;s onClick() unintentionally activated after call to finish() by another activity (which was started by that RecyclerView)
+
+
+
+Questions for user with id 11349969 and weightage 6 
+
+		 1. How to edit Jhipster Spring database
+
+
+
+Questions for user with id 11524438 and weightage 6 
+
+		 1. How to fix this sql exeption
+
+
+
+Questions for user with id 11464515 and weightage 6 
+
+		 1. How to make Android app login requests all appear as one IP
+
+
+
+Questions for user with id 9615870 and weightage 6 
+
+		 1. Can a target variable in a supervised machine learning task be an array for a specific object?
+
+
+
+Questions for user with id 9458550 and weightage 6 
+
+		 1. StatementCallback; bad SQL grammar only when deployed to Heroku
+
+
+
+Questions for user with id 11523349 and weightage 6 
+
+		 1. Main has to be astract, ActionPerformed method problem with Listener
+
+
+
+Questions for user with id 9752889 and weightage 6 
+
+		 1. Getting any new updates automatically
+
+
+
+Questions for user with id 8470294 and weightage 6 
+
+		 1. I am trying to use the scanner inputs for a for loop that counts the number from the min to max and display the numbers in the terminal
+
+
+
+Questions for user with id 4981702 and weightage 6 
+
+		 1. pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [Errno 61] Connection refused
+
+
+
+Questions for user with id 2421155 and weightage 6 
+
+		 1. static methods in Enum (in Java)
+
+
+
+Questions for user with id 11504472 and weightage 3 
+
+		 1. Writing a Custom Controller extension to get related records and iterate over list/index and use with apex:repeat
+
+
+
+Questions for user with id 11439449 and weightage 3 
+
+		 1. Querying bulk load status (Salesforce Connector) in Datatstage returning duplicate records
+
+
+
+Questions for user with id 10737623 and weightage 3 
+
+		 1. How to automate setOnClickListener method in android?
+
+
+
+Questions for user with id 11518276 and weightage 3 
+
+		 1. Solving PDE with Python
+
+
+
+Questions for user with id 9653109 and weightage 3 
+
+		 1. Why I am receiving a .bin extension file via email attachment through python script?
+
+
+
+Questions for user with id 11521398 and weightage 3 
+
+		 1. Save JFrame content as a .png =)
+
+
+
+Questions for user with id 11523448 and weightage 3 
+
+		 1. How to control an arduino with a computer?
+
+
+
+Questions for user with id 11479934 and weightage 3 
+
+		 1. How to write Test class for this below code
+
+
+
+Questions for user with id 11524451 and weightage 3 
+
+		 1. How can i remove something in module.exports, when it sent the &quot;key&quot;
+
+
+
+Questions for user with id 3982260 and weightage 3 
+
+		 1. How can I copy historical data from Salesforce to Azure Data Lake (Month-wise) using Azure Data Factory Parameters
+
+
+
+Questions for user with id 11409702 and weightage 3 
+
+		 1. Importing Excel with apex
+
+
+
+Questions for user with id 11524437 and weightage 0 
+
+		 1. How to create ratio columns from a dataframe after pivot
+
+
+
+Questions for user with id 11524429 and weightage 0 
+
+		 1. is there a way to distinguish between built in data types?
+
+
+
+Questions for user with id 11505008 and weightage 0 
+
+		 1. Error - 21626 Invalid &#39;StatusCallbackEvent&#39; when communicated with Salesforce
+
+
+
+Questions for user with id 11469165 and weightage 0 
+
+		 1. How to create a validation rule referencing two lookups
+
+
+
+Questions for user with id 11447576 and weightage 0 
+
+		 1. I can&#39;t get shopping cart Icon to appear in emulator for my homework assignment on android studio
+
+
+
+Questions for user with id 11524378 and weightage 0 
+
+		 1. I have a problem with copyfile () I just want an illustrative example or several similar examples
+
+
+
+Questions for user with id 11524397 and weightage 0 
+
+		 1. SQLITE_ERROR SQL error or missing database (near &quot;(&quot;: syntax error)
+
+
+
